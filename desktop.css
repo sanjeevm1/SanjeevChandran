@@ -1,0 +1,154 @@
+html,body{
+    
+}
+
+.sub-container{
+    margin-left:4%;
+}
+
+.left h1{
+    font-size: 80px;
+    width:10px;
+    text-align:center;
+    font-family: 'Koulen', cursive;
+    letter-spacing: 2px;
+    margin-top: 15%;
+    margin-bottom:8%;
+}
+
+.left h3{
+    
+    font-family: 'Koulen', cursive;
+    font-size: 40px;
+    margin-top:8%;
+
+}
+
+
+.icons img{
+    width:6%;
+    border-radius:10px;
+    margin-right:4%;
+    margin-bottom:8%;
+}
+
+
+.left p{
+     font-family: 'Poppins', sans-serif;
+     font-size:20px;
+     margin-top: 5%;
+     text-align: justify;
+}
+
+.right img{
+     width:60%;
+     margin-left:3%;
+}
+
+.left1 img{
+     width:100%;
+     margin-left: -5%;
+}
+
+.right1 h1{
+    font-size: 40px;
+    font-family: 'Koulen', cursive;
+    letter-spacing: 2px;
+    margin-bottom:8%;
+    margin-top: 15%;
+    color:white;
+}
+
+.right1 h3{
+    color:#FFF4A3;
+    font-weight: bold;
+}
+
+.right1 span{
+    color:white;
+    margin-right: 5%;
+    font-family: 'Poppins', sans-serif;
+}
+
+.box{
+    padding:20px;
+    background-color:#059862;
+    color:white;
+    text-align:center;
+    border-style:solid;
+    border-width:1px;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+.right2{
+    
+    text-align:center;
+    font-family: 'Koulen', cursive;
+    letter-spacing: 2px;
+    padding-top:11%;
+    font-size:50px;
+}
+
+.right3 h1{
+    text-align:center;
+    font-family: 'Koulen', cursive;
+    letter-spacing: 2px;
+    font-size:50px;
+    padding-top:1.5%;
+}
+
+.left3 img{
+    margin-left:-5%;
+    width:105%;
+
+}
+
+.right3 h1{
+    text-align: left;
+    color:white;
+}
+
+.right3 h3{
+    color:#FFF4A3;
+    font-weight: bold;
+}
+
+.right3 p{
+    color:white;
+    font-family: 'Poppins', sans-serif;
+    width:80%;
+}
+
+.right3 div{
+    margin-bottom:3%;
+}
+
+a{
+    cursor: hand;
+    text-decoration: none;
+    color:white;
+}
+
+.left4 h3,.mid4 h3,.right4 h3{
+    font-weight: bold;
+}
+
+.left4,.mid4,.right4{
+    padding:10px;
+}
+
+@media only screen and (max-width: 768px){
+
+    .left1 img{
+        width:110%;
+        margin-left: -5%;
+   }
+
+   .left3 img{
+       width:110%;
+       margin-left: -5%;
+   }
+
+
+}
