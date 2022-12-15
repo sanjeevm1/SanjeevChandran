@@ -149,6 +149,10 @@ a{
        width:110%;
        margin-left: -5%;
    }
+    
+    .right img{
+        display:none;
+    }
 
 
 }
